@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+h1{
+    font-family: Architects Daughter;
+    text-align: center;
+    color: aqua;
+   
+     
+
+    }
+
+body{
+    background-color: white;
+}
+
+button{
+    size: 30px;
+    font-size: x-large;
+    background-color: rgba(117, 105, 105, 0.815);
+    color: aquamarine;
+    font-family: Architects Daughter;
+    font-weight: 300;
+    margin-left: 45%;
+    margin-top: 15em;
+}
